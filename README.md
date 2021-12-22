@@ -7,7 +7,7 @@
 ## 1_개발환경
   * OS : window 10
   * 개발언어 : java(Spring), JavaScript
-  * DB : 
+  * DB : 티베로(Tibero)
   * 프레임워크 : Spring, Mybatis
 
 ## 2_개략설계 단게
