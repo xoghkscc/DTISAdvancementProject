@@ -30,6 +30,7 @@
  * 한진택배정보체계
 
 ### 2022.4.04 ~ 2022.4.08
+#### 개발화면 (92/109), Service(8(+1)/51), Controller(8(+1)/51), Report(0/21), 개발해야할 Operation: 314개
  * 운전자력 Service, Controller, Mapper 개발
     * Service, Controller, Mapper 연구 및 개발
  * 수송근무 공통코드 분석
