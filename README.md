@@ -29,6 +29,12 @@
  * 하이에어정보체계
  * 한진택배정보체계
 
+### 2022.4.04 ~ 2022.4.08
+ * 운전자력 Service, Controller, Mapper 개발
+    * Service, Controller, Mapper 연구 및 개발
+ * 수송근무 공통코드 분석
+ ![KakaoTalk_20220408_205550584](https://user-images.githubusercontent.com/82793713/162431156-db1be989-da65-45bc-bf9d-a535c497d682.jpg)
+#### 느낀점:
 
 ### 2022.3.28 ~ 2022.4.01
  * 운전자력 Service, Controller, Mapper 개발
