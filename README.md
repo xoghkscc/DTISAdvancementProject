@@ -37,7 +37,7 @@
 ```C
 MERGE INTO 운전자신상 테이블 S
     USING DUAL
-       ON (군번과 군구분 매치)
+       ON (S.군번 = #{찾고자하는 군번} AND S.군구분 = #{찾고자하는 군구분})
     WHEN MATCHED THEN
         UPDATE SET 업데이트하고자 하는 컬럼 = 업데이트하고자하는 값
     WHEN NOT MATCHED THEN
