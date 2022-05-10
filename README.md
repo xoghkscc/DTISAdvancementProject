@@ -29,6 +29,12 @@
  * 하이에어정보체계
  * 한진택배정보체계
 
+### 2022.5.2 ~ 2022.5.6
+#### 개발화면 (92/109), Service(18(+3)/51), Controller(18(+3)/51), Report(0/21), 개발해야할 Operation: 314개
+ * 군전세객차 Service, Controller, Mapper 개발
+    * Service, Controller, Mapper 연구 및 개발
+#### 느낀점: 군전세객차를 
+
 ### 2022.4.25 ~ 2022.4.29
 #### 개발화면 (92/109), Service(15(+3)/51), Controller(15(+3)/51), Report(0/21), 개발해야할 Operation: 314개
  * 군전세객차 Service, Controller, Mapper 개발
@@ -70,6 +76,8 @@ public class 비밀 implements I비밀(인터페이스){
 }
 ```
 위와 같이 코드를 작성하여 문제가 되는 건이 발생한다면 insert를 하지 않고 위험 문구를 반환하도록 작성을 하였다. 개발을 할때 프로시저로 되어있는 개발소스들을 어떻게 하면 TO-BE 체계로 개발할 수 있는지 더 고민해야 겠다고 생각했다.
+![KakaoTalk_20220510_224530016](https://user-images.githubusercontent.com/82793713/167644539-7cca84ae-6f69-480b-b09b-f6eb25aea31d.jpg)
+
 
 ### 2022.4.18 ~ 2022.4.22
 #### 개발화면 (92/109), Service(12(+3)/51), Controller(12(+3)/51), Report(0/21), 개발해야할 Operation: 314개
