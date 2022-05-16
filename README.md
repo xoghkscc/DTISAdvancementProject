@@ -12,7 +12,7 @@
   * 프레임워크 : Spring, Mybatis
   * 형상관리 툴 : SVN(SubVersioN)
   * UI : 넥사크로
-  * 품질 : ssparrow
+  * 품질 : Sparrow
 
 ## 2_개발일지
 
