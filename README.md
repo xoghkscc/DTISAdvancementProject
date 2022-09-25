@@ -34,6 +34,9 @@
  * 운전자력, 군전세객차 모바일 화면 개발 및 통합테스트 진행
  #### 느낀점: DTIS체계에서 개발분량이 완료되었다. 그러나 추가적으로 모바일 개발이 필요했다. 운전자력의 군운전경력확인서와 군전세객차의 군전세객차 신청 화면이였다. DTIS는 국방망 인트라넷에서만 접속이 가능하지만 모바일은 외부 인터넷에서도 접속이 가능하다. 개발하면서 어려웠던 점은 DTIS는 넥사크로 UI툴이 있었지만 모바일은 UI툴이 따로 없고 HTML/CSS/JS로만 개발을 해야했다. 그래서 오랜만에 내가 개발한 일기를 보거나 검색을 하면서 개발을 했다. 또한 DB와의 연결은 새로 개발해야했기 때문에 JQuery와 ajax를 활용하여 오퍼레이션을 불러와 개발을 하였다. 확실히 UI툴을 사용하다가 순수 HTML/CSS/JS로 화면을 개발하려다 보니 코드도 조금 복잡해지고 까다로웠다. 
  
+ ```C
+ http://www.dtis.mil.kr/internet/m/index.public.jsp
+ ```
 ![Image 1](https://user-images.githubusercontent.com/82793713/192143277-29507dbd-598a-49c3-bb3a-9fd3083c0713.png)
 ![Image 2](https://user-images.githubusercontent.com/82793713/192143349-49519bad-1105-41da-a4e7-12d793fd6776.png)
 ![Image 3](https://user-images.githubusercontent.com/82793713/192143377-d937e42d-1ebc-4191-afb2-de2b57e3f6f5.png)
